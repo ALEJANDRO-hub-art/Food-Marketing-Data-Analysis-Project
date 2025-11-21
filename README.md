@@ -37,7 +37,7 @@ Essentially: How can we best allocate marketing budget across customer segments 
 - matplotlib – plot formatting and titles
 
 **Data Cleaning**
-- Removed duplicates.
+- Removed duplicates
 
 **Analysis & Insights by Graph** 
 
