@@ -26,6 +26,15 @@ for higher spending volume.)
 (Segment customers by age group, number of children, and shopping channel behavior to target high-spending
 clusters differently from high-response clusters.)
 
+- **Which customers generate the most revenue?**  
+  (Middle-aged customers (around 31–70 years old), especially those with few or no children, generate the most revenue.)
+- **Which customers are most likely to respond to marketing campaigns?**  
+  (Younger adults (23–30) and older customers (71+) are the most likely to respond to campaigns.)
+- **Which channels (web, catalog, store) should we prioritize for marketing efforts?**  
+  (Campaign efforts should prioritize the catalog channel for higher acceptance and the store/web channels for higher spending volume.)
+- **How should we segment customers to target campaigns more effectively?**  
+  (Segment customers by age group, number of children, and shopping channel behavior to target high-spending clusters differently from high-response clusters.)
+
 Essentially: How can we best allocate marketing budget across customer segments and channels to maximize profit and new spend?
 
 🛠 **Tech Stack**
