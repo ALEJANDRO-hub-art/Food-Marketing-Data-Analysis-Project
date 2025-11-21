@@ -1,4 +1,4 @@
-📊 ***Food Marketing Data Analysis — Full Project Description***
+📊 **Food Marketing Data Analysis — Full Project Description**
 
 📘 **Project Overview**
 
