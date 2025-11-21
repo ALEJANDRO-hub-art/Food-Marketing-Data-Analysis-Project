@@ -42,7 +42,7 @@ Below I walk through the graphs in the notebook and summarize what each one is t
 
 **1. Correlation Heatmaps** DONE
 
-Insight:
+Insights:
 - The full correlation heatmap shows how numerical variables move together (spending, purchases, demographics, campaign acceptance).
 - Higher purchase activity (more web/catalog/store purchases) likely contributes to higher total spend (MntTotal).Demographics alone are not strong direct drivers; instead, behavioral factors (how customers shop) better explain revenue and campaign response.
 
