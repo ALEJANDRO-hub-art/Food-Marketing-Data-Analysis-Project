@@ -36,6 +36,9 @@ Essentially: How can we best allocate marketing budget across customer segments 
 - seaborn – statistical visualizations (heatmaps, barplots, regplots, jointplots)
 - matplotlib – plot formatting and titles
 
+**Data Cleaning**
+- Removed duplicates.
+
 **Analysis & Insights by Graph** 
 
 Below I walk through the graphs in the notebook and summarize what each one is telling you, plus likely cause–effect interpretations (with the caveat that the data is observational, so we’re inferring plausible business drivers, not proving strict causality).
