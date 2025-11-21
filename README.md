@@ -40,11 +40,11 @@ Essentially: How can we best allocate marketing budget across customer segments 
 
 Below I walk through the graphs in the notebook and summarize what each one is telling you, plus likely cause–effect interpretations (with the caveat that the data is observational, so we’re inferring plausible business drivers, not proving strict causality).
 
-1. Correlation Heatmaps DONE
+**1. Correlation Heatmaps** DONE
 - Insight: The full correlation heatmap shows how numerical variables move together (spending, purchases, demographics, campaign acceptance).
 - Cause & Effect (interpretation): Higher purchase activity (more web/catalog/store purchases) likely contributes to higher total spend (MntTotal).Demographics alone are not strong direct drivers; instead, behavioral factors (how customers shop) better explain revenue and campaign response.
 
-2. Barplot of percentage of accepted campaigns per age group. Age vs Campaign Acceptance DONE
+**2. Barplot of percentage of accepted campaigns per age group. Age vs Campaign Acceptance** DONE
 - Core age audience (31–70): Represent a large share of customers. Less likely to accept campaigns compared to the very young and very old.
 - Young adults (23–30) and older customers (71+): Higher campaign acceptance rates.
 
@@ -59,7 +59,7 @@ Business implication: DONE
 - Use 31–70 as your core revenue base but recognize they are less responsive; think loyalty benefits and retention, not aggressive discounting.
 - Provide tailored and persuasive promotions to customers aged 23–30 and 71+, as these segments are more responsive to marketing and can be more effectively encouraged to increase or resume spending.
 
-3. Bar chart of Age vs Spending (All Customers vs Campaign Acceptors) DONE
+**3. Bar chart of Age vs Spending (All Customers vs Campaign Acceptors)** DONE
 
 Insights: DONE
 - 30–70 spend the most money overall.
@@ -72,7 +72,7 @@ Insights: DONE
 Business implication: DONE
 - For growth and new spend, focus on high-acceptance age bands at the edges (23–30, 71+).
 
-4. Bar chart of Purchase Channel Analysis (Web vs Catalog vs Store) DONE
+**4. Bar chart of Purchase Channel Analysis (Web vs Catalog vs Store)** DONE
 
 Insights: DONE
 - Catalog purchases show higher likelihood of campaign acceptance.
@@ -86,7 +86,7 @@ Business implication: DONE
 - Focus on store and web, leveraging their higher traffic and basket size to scale revenue.
 - A balanced approach is recommended: 40% catalog, 30% store, 30% web in campaign budget allocation to capture both high responsiveness and high volume.
 
-5. Regression plot Children / Family Size vs Campaign Acceptance DONE
+**5. Regression plot Children / Family Size vs Campaign Acceptance** DONE
    
 Insights: DONE
 - As Total_Children increases, the number/probability of accepted campaigns decreases.
@@ -98,7 +98,7 @@ Business implication: DONE
 - For high-ROI campaigns, prioritize customers with zero or few children.
 - For large-family segments, if targeted, use value-focused offers (family packs, discounts) rather than generic promotions.
 
-6. Education vs Campaigns and Spending DONE
+**6. Education vs Campaigns and Spending** DONE
 
 Insights: DONE
 - Acceptance of campaigns does not change much across education levels.
@@ -110,7 +110,7 @@ Business implication: DONE
 - Do not segment or target based on education; it adds complexity with little gain.
 - Keep education as a descriptive variable, not a primary segmentation axis.
 
-7. Marital Status vs Spend and Campaigns DONE
+**7. Marital Status vs Spend and Campaigns** DONE
 
 Insights: DONE
 - Married, Single, and Together customers account for most of the spending.
