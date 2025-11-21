@@ -42,7 +42,7 @@ Below I walk through the graphs in the notebook and summarize what each one is t
 
 **1. Correlation Heatmaps** DONE
 - Insight: The full correlation heatmap shows how numerical variables move together (spending, purchases, demographics, campaign acceptance).
-- Cause & Effect (interpretation): Higher purchase activity (more web/catalog/store purchases) likely contributes to higher total spend (MntTotal).Demographics alone are not strong direct drivers; instead, behavioral factors (how customers shop) better explain revenue and campaign response.
+- Higher purchase activity (more web/catalog/store purchases) likely contributes to higher total spend (MntTotal).Demographics alone are not strong direct drivers; instead, behavioral factors (how customers shop) better explain revenue and campaign response.
 
 **2. Barplot of percentage of accepted campaigns per age group. Age vs Campaign Acceptance** DONE
 - Core age audience (31–70): Represent a large share of customers. Less likely to accept campaigns compared to the very young and very old.
